@@ -1,0 +1,8 @@
+.color-text{
+    color: orange;
+    margin: 2px;
+}
+
+.background-first{
+    background-image: url("/image/hero_1_no-text.jpg");
+}
